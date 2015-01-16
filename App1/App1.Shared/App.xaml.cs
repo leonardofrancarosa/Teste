@@ -36,7 +36,7 @@ namespace App1
         public App()
         {
             this.InitializeComponent();
-            this.Suspending += this.OnSuspending; //Leonardo
+            this.Suspending += this.OnSuspending; //Leonardo França rosa dddddffdf
         }
 
         /// <summary>
